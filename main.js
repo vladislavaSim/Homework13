@@ -59,9 +59,3 @@ function makeCarousel() {
         }
     })
 }
-
-//'https://i.pinimg.com/originals/d6/7c/5a/d67c5a857601f3efc0e5426a377005ba.png',
-// 'https://img-9gag-fun.9cache.com/photo/aeD4YRB_460s.jpg',
-// 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa2UznGIoCUO-Zll0l17csnSsSQDFwsMxGrg&usqp=CAU',
-// 'https://previews.123rf.com/images/ninamunha/ninamunha1807/ninamunha180700028/104219829-summer-fruits-vector-watermelon-with-dots-cute-cartoon-characters-.jpg',
-// 'https://thumbs.gfycat.com/AdoredRichAustralianshelduck-max-1mb.gif'
