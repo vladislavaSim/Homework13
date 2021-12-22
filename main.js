@@ -50,12 +50,10 @@ function makeCarousel() {
         if(e.target.classList.contains('prev') && index > 0){
             --index
             $img.src = images[index]
-            console.log(index)
         }
         if(e.target.classList.contains('next') && index < images.length - 1){
             ++index
             $img.src = images[index]
-            console.log(index)
         }
     })
 }
